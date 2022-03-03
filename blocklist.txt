@@ -4,13 +4,16 @@ ytimg.com
 s.ytimg.com
 ytimg.l.google.com
 youtube.l.google.com
+youtube-ui.l.google.com
+ytstatic.l.google.com
 i.google.com
-googlevideo.com/
+googlevideo.com
 youtu.be
 play.google.com
 ggpht.com
 gvt1.com
 play.googleapis.com
+youtubei.googleapis.com
 itunes.apple.com
 ax.itunes.apple.com
 albert.apple.com
